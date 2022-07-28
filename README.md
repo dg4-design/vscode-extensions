@@ -8,6 +8,6 @@
 
 1. 拡張機能タブで、検索バーに`@recommended`と入力する
 
-   ![untitled](images/untitled.png)
-
 1. 雲アイコンをクリックで一括インストール
+
+   ![untitled](images/untitled.png)
