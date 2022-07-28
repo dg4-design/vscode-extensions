@@ -1,0 +1,31 @@
+{
+  "recommendations": [
+    "formulahendry.auto-complete-tag",
+    "streetsidesoftware.code-spell-checker",
+    "ms-azuretools.vscode-docker",
+    "janisdd.vscode-edit-csv",
+    "dbaeumer.vscode-eslint",
+    "mhutchie.git-graph",
+    "codezombiech.gitignore",
+    "eamodio.gitlens",
+    "mkaufman.htmlhint",
+    "stxr.iconfont-preview",
+    "glenn2223.live-sass",
+    "ritwickdey.liveserver",
+    "ms-vsliveshare.vsliveshare-pack",
+    "macaron.macaron-vscode",
+    "yzhang.markdown-all-in-one",
+    "yzane.markdown-pdf",
+    "davidanson.vscode-markdownlint",
+    "pkief.material-icon-theme",
+    "analytic-signal.preview-mp4",
+    "esbenp.prettier-vscode",
+    "syler.sass-indented",
+    "sysoev.language-stylus",
+    "jock.svg",
+    "wayou.vscode-todo-highlight",
+    "octref.vetur",
+    "dunstontc.vscode-gitignore-syntax",
+    "Vue.volar"
+  ]
+}
